@@ -1,7 +1,7 @@
 {
     "name": "unit6/crypto",
     "type": "library",
-    "description": "Simple crypto utilities.",
+    "description": "Simple collection of cryptographic tools and utilities.",
     "keywords": ["crypto"],
     "license": "MIT",
     "authors": [
